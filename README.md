@@ -17,7 +17,7 @@ Now i'm studying in a local University here at the [Espirito Santo](https://www.
 
 
 ### What am i learning?
-- 🌱 Besides the topics above, I’m currently learning some programming languages like C, C#, JavaScript and TypeScript and i have interest on Web Development Programming with the JS Universe, so...
+- 🌱 Besides the topics above, I’m currently learning some programming languages like C, C#, Python, JavaScript and TypeScript and i have interest on Web Development Programming with the JS Universe, so...
 - 🌱 I'm also learning some JS libs and Frameworks like React, React Native, Express, Next and Nest.
 
 ### Contact me
