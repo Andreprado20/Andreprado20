@@ -2,7 +2,7 @@
 ## I'm currently at the Vila Velha University ([Universidade Vila Velha - UVV](https://uvv.br/) in portuguese)
 
 ### About me:
-I've always loved Math and Logics and i was being prepared to take a Civil Engineering degree. But then i met the IT and programming universe and immediately fell in love with it.
+I've always loved Math and Logics but i was being prepared to take a Civil Engineering degree. But then i met the IT and programming universe and immediately fell in love with it.
 
 Now i'm studying in a local University here at the [Espirito Santo](https://www.google.com.br/maps/place/Esp%C3%ADrito+Santo/@-19.5091059,-40.6612372,6z/data=!3m1!4b1!4m6!3m5!1s0xb7069579646359:0x4e1bd5243c50f799!8m2!3d-19.1834229!4d-40.3088626!16zL20vMDIxdHli?entry=ttu) state in Brazil :brazil:. Here, i've had some contact with important topics like:
 - Database Design and Development (where i learned SQL);
